@@ -212,6 +212,24 @@
       "barbershops"
     ]
   },
+  "bb": {
+    "thePathOfTheAardvark": [
+      "bbm",
+      "bbmd"
+    ]
+  },
+  "bc": {
+    "thePathOfTheAardvark": [
+      "bcc",
+      "bccs"
+    ]
+  },
+  "bd": {
+    "thePathOfTheAardvark": [
+      "bde",
+      "bded"
+    ]
+  },
   "be": {
     "thePathOfTheAardvark": [
       "bel",
@@ -221,12 +239,35 @@
       "bellyflopping"
     ]
   },
+  "bf": {
+    "thePathOfTheAardvark": [
+      "bfp",
+      "bfpo",
+      "bfpos"
+    ]
+  },
+  "bh": {
+    "thePathOfTheAardvark": [
+      "bha",
+      "bhava",
+      "bhavan",
+      "bhavans"
+    ]
+  },
   "bi": {
     "thePathOfTheAardvark": [
       "bio",
       "bios",
       "biosphere",
       "biospheres"
+    ]
+  },
+  "bl": {
+    "thePathOfTheAardvark": [
+      "black",
+      "blacks",
+      "blacksmith",
+      "blacksmiths"
     ]
   },
   "bo": {
@@ -238,6 +279,27 @@
       "bookstores"
     ]
   },
+  "bp": {
+    "thePathOfTheAardvark": [
+      "bph",
+      "bphil"
+    ]
+  },
+  "br": {
+    "thePathOfTheAardvark": [
+      "bra",
+      "brain",
+      "brains",
+      "brainstorm",
+      "brainstormed"
+    ]
+  },
+  "bt": {
+    "thePathOfTheAardvark": [
+      "btc",
+      "btcs"
+    ]
+  },
   "bu": {
     "thePathOfTheAardvark": [
       "bur",
@@ -245,6 +307,17 @@
       "burglar",
       "burglarize",
       "burglarizes"
+    ]
+  },
+  "bv": {
+    "thePathOfTheAardvark": [
+      "bvds"
+    ]
+  },
+  "bw": {
+    "thePathOfTheAardvark": [
+      "bwr",
+      "bwrs"
     ]
   },
   "by": {
@@ -264,6 +337,25 @@
       "carbonizes"
     ]
   },
+  "cb": {
+    "thePathOfTheAardvark": [
+      "cbd",
+      "cbds"
+    ]
+  },
+  "cc": {
+    "thePathOfTheAardvark": [
+      "ccd",
+      "ccds"
+    ]
+  },
+  "cd": {
+    "thePathOfTheAardvark": [
+      "cdr",
+      "cdrom",
+      "cdroms"
+    ]
+  },
   "ce": {
     "thePathOfTheAardvark": [
       "cent",
@@ -273,12 +365,50 @@
       "centerspreads"
     ]
   },
+  "cf": {
+    "thePathOfTheAardvark": [
+      "cfo",
+      "cfos"
+    ]
+  },
+  "ch": {
+    "thePathOfTheAardvark": [
+      "cha",
+      "char",
+      "chart",
+      "charter",
+      "charterhouse",
+      "charterhouses"
+    ]
+  },
   "ci": {
     "thePathOfTheAardvark": [
       "cis",
       "cist",
       "cistron",
       "cistrons"
+    ]
+  },
+  "cl": {
+    "thePathOfTheAardvark": [
+      "class",
+      "classic",
+      "classicise",
+      "classicised"
+    ]
+  },
+  "cm": {
+    "thePathOfTheAardvark": [
+      "cmd",
+      "cmdr",
+      "cmdre"
+    ]
+  },
+  "cn": {
+    "thePathOfTheAardvark": [
+      "cnidaria",
+      "cnidarian",
+      "cnidarians"
     ]
   },
   "co": {
@@ -291,6 +421,34 @@
       "contractors"
     ]
   },
+  "cp": {
+    "thePathOfTheAardvark": [
+      "cpa",
+      "cpas"
+    ]
+  },
+  "cr": {
+    "thePathOfTheAardvark": [
+      "cru",
+      "crus",
+      "crust",
+      "crustie",
+      "crusties",
+      "crustiest"
+    ]
+  },
+  "cs": {
+    "thePathOfTheAardvark": [
+      "csm",
+      "csms"
+    ]
+  },
+  "ct": {
+    "thePathOfTheAardvark": [
+      "cto",
+      "ctos"
+    ]
+  },
   "cu": {
     "thePathOfTheAardvark": [
       "cur",
@@ -298,6 +456,13 @@
       "curtain",
       "curtainwall",
       "curtainwalls"
+    ]
+  },
+  "cw": {
+    "thePathOfTheAardvark": [
+      "cwt",
+      "cwtch",
+      "cwtches"
     ]
   },
   "cy": {
@@ -308,12 +473,38 @@
       "cyberwarriors"
     ]
   },
+  "cz": {
+    "thePathOfTheAardvark": [
+      "czar",
+      "czarina",
+      "czarinas"
+    ]
+  },
   "da": {
     "thePathOfTheAardvark": [
       "dan",
       "dance",
       "dancer",
       "dancers"
+    ]
+  },
+  "db": {
+    "thePathOfTheAardvark": [
+      "dba",
+      "dbag",
+      "dbags"
+    ]
+  },
+  "dc": {
+    "thePathOfTheAardvark": [
+      "dcm",
+      "dcms"
+    ]
+  },
+  "dd": {
+    "thePathOfTheAardvark": [
+      "ddos",
+      "ddosing"
     ]
   },
   "de": {
@@ -323,6 +514,19 @@
       "decor",
       "decorticate",
       "decorticates"
+    ]
+  },
+  "df": {
+    "thePathOfTheAardvark": [
+      "dfc",
+      "dfcs"
+    ]
+  },
+  "dh": {
+    "thePathOfTheAardvark": [
+      "dhol",
+      "dhole",
+      "dholes"
     ]
   },
   "di": {
@@ -335,12 +539,58 @@
       "discoverers"
     ]
   },
+  "dj": {
+    "thePathOfTheAardvark": [
+      "djibba",
+      "djibbah",
+      "djibbahs"
+    ]
+  },
+  "dm": {
+    "thePathOfTheAardvark": [
+      "dmu",
+      "dmus"
+    ]
+  },
+  "dn": {
+    "thePathOfTheAardvark": [
+      "dna",
+      "dnase"
+    ]
+  },
   "do": {
     "thePathOfTheAardvark": [
       "down",
       "downs",
       "downshift",
       "downshifting"
+    ]
+  },
+  "dp": {
+    "thePathOfTheAardvark": [
+      "dpp",
+      "dpps"
+    ]
+  },
+  "dr": {
+    "thePathOfTheAardvark": [
+      "drop",
+      "drops",
+      "dropshot",
+      "dropshotting"
+    ]
+  },
+  "ds": {
+    "thePathOfTheAardvark": [
+      "dsl",
+      "dslr",
+      "dslrs"
+    ]
+  },
+  "dt": {
+    "thePathOfTheAardvark": [
+      "dtt",
+      "dttv"
     ]
   },
   "du": {
@@ -352,12 +602,34 @@
       "dumbsized"
     ]
   },
+  "dv": {
+    "thePathOfTheAardvark": [
+      "dvd",
+      "dvdr",
+      "dvdrw",
+      "dvdrws"
+    ]
+  },
+  "dw": {
+    "thePathOfTheAardvark": [
+      "dwell",
+      "dwelling",
+      "dwellinghouse",
+      "dwellinghouses"
+    ]
+  },
   "dy": {
     "thePathOfTheAardvark": [
       "dys",
       "dystopia",
       "dystopian",
       "dystopians"
+    ]
+  },
+  "dz": {
+    "thePathOfTheAardvark": [
+      "dzo",
+      "dzos"
     ]
   },
   "ea": {
@@ -575,12 +847,23 @@
       "fanaticised"
     ]
   },
+  "fd": {
+    "thePathOfTheAardvark": [
+      "fdi",
+      "fdic"
+    ]
+  },
   "fe": {
     "thePathOfTheAardvark": [
       "fet",
       "fetish",
       "fetishise",
       "fetishised"
+    ]
+  },
+  "fh": {
+    "thePathOfTheAardvark": [
+      "fhsa"
     ]
   },
   "fi": {
@@ -591,12 +874,53 @@
       "fingerpainted"
     ]
   },
+  "fj": {
+    "thePathOfTheAardvark": [
+      "fjord",
+      "fjords"
+    ]
+  },
+  "fl": {
+    "thePathOfTheAardvark": [
+      "flu",
+      "fluid",
+      "fluidise",
+      "fluidised"
+    ]
+  },
   "fo": {
     "thePathOfTheAardvark": [
       "fore",
       "forest",
       "forestall",
       "forestalling"
+    ]
+  },
+  "fp": {
+    "thePathOfTheAardvark": [
+      "fpu",
+      "fpus"
+    ]
+  },
+  "fr": {
+    "thePathOfTheAardvark": [
+      "fra",
+      "franc",
+      "franco",
+      "francophone",
+      "francophones"
+    ]
+  },
+  "fs": {
+    "thePathOfTheAardvark": [
+      "fst",
+      "fsts"
+    ]
+  },
+  "ft": {
+    "thePathOfTheAardvark": [
+      "ftp",
+      "ftp'ing"
     ]
   },
   "fu": {
@@ -608,6 +932,11 @@
       "fundamental",
       "fundamentalist",
       "fundamentalists"
+    ]
+  },
+  "fw": {
+    "thePathOfTheAardvark": [
+      "fwiw"
     ]
   },
   "fy": {
@@ -625,6 +954,18 @@
       "gallicised"
     ]
   },
+  "gc": {
+    "thePathOfTheAardvark": [
+      "gcse",
+      "gcses"
+    ]
+  },
+  "gd": {
+    "thePathOfTheAardvark": [
+      "gdp",
+      "gdps"
+    ]
+  },
   "ge": {
     "thePathOfTheAardvark": [
       "gen",
@@ -633,6 +974,14 @@
       "general",
       "generalise",
       "generalised"
+    ]
+  },
+  "gh": {
+    "thePathOfTheAardvark": [
+      "ghost",
+      "ghostwrite",
+      "ghostwriter",
+      "ghostwriters"
     ]
   },
   "gi": {
@@ -644,6 +993,32 @@
       "gigatonnes"
     ]
   },
+  "gj": {
+    "thePathOfTheAardvark": [
+      "gjetost"
+    ]
+  },
+  "gl": {
+    "thePathOfTheAardvark": [
+      "glob",
+      "global",
+      "globalise",
+      "globalised"
+    ]
+  },
+  "gm": {
+    "thePathOfTheAardvark": [
+      "gmo",
+      "gmos"
+    ]
+  },
+  "gn": {
+    "thePathOfTheAardvark": [
+      "gnat",
+      "gnatcatcher",
+      "gnatcatchers"
+    ]
+  },
   "go": {
     "thePathOfTheAardvark": [
       "goo",
@@ -653,12 +1028,40 @@
       "goodbyes"
     ]
   },
+  "gp": {
+    "thePathOfTheAardvark": [
+      "gpr",
+      "gprs"
+    ]
+  },
+  "gr": {
+    "thePathOfTheAardvark": [
+      "gran",
+      "grand",
+      "granda",
+      "grandam",
+      "grandame",
+      "grandames"
+    ]
+  },
+  "gt": {
+    "thePathOfTheAardvark": [
+      "gti",
+      "gtis"
+    ]
+  },
   "gu": {
     "thePathOfTheAardvark": [
       "gun",
       "guns",
       "gunstock",
       "gunstocks"
+    ]
+  },
+  "gw": {
+    "thePathOfTheAardvark": [
+      "gwyniad",
+      "gwyniads"
     ]
   },
   "gy": {
@@ -677,6 +1080,25 @@
       "handseled"
     ]
   },
+  "hb": {
+    "thePathOfTheAardvark": [
+      "hbic",
+      "hbics"
+    ]
+  },
+  "hc": {
+    "thePathOfTheAardvark": [
+      "hcf",
+      "hcfc",
+      "hcfcs"
+    ]
+  },
+  "hd": {
+    "thePathOfTheAardvark": [
+      "hdu",
+      "hdus"
+    ]
+  },
   "he": {
     "thePathOfTheAardvark": [
       "her",
@@ -685,12 +1107,43 @@
       "heretics"
     ]
   },
+  "hf": {
+    "thePathOfTheAardvark": [
+      "hfc",
+      "hfcs",
+      "hfcss"
+    ]
+  },
+  "hg": {
+    "thePathOfTheAardvark": [
+      "hgv",
+      "hgvs"
+    ]
+  },
+  "hh": {
+    "thePathOfTheAardvark": [
+      "hhd",
+      "hhds"
+    ]
+  },
   "hi": {
     "thePathOfTheAardvark": [
       "high",
       "highs",
       "highstick",
       "highsticking"
+    ]
+  },
+  "hm": {
+    "thePathOfTheAardvark": [
+      "hmo",
+      "hmos"
+    ]
+  },
+  "hn": {
+    "thePathOfTheAardvark": [
+      "hnwi",
+      "hnwis"
     ]
   },
   "ho": {
@@ -702,12 +1155,40 @@
       "homeschoolings"
     ]
   },
+  "hr": {
+    "thePathOfTheAardvark": [
+      "hryvnia",
+      "hryvnias"
+    ]
+  },
+  "hs": {
+    "thePathOfTheAardvark": [
+      "hst",
+      "hsts"
+    ]
+  },
+  "ht": {
+    "thePathOfTheAardvark": [
+      "http"
+    ]
+  },
   "hu": {
     "thePathOfTheAardvark": [
       "hum",
       "human",
       "humane",
       "humanest"
+    ]
+  },
+  "hv": {
+    "thePathOfTheAardvark": [
+      "hvac",
+      "hvacs"
+    ]
+  },
+  "hw": {
+    "thePathOfTheAardvark": [
+      "hwyl"
     ]
   },
   "hy": {
@@ -894,12 +1375,24 @@
       "jackstones"
     ]
   },
+  "jc": {
+    "thePathOfTheAardvark": [
+      "jcr",
+      "jcrs"
+    ]
+  },
   "je": {
     "thePathOfTheAardvark": [
       "jet",
       "jets",
       "jetset",
       "jetsetting"
+    ]
+  },
+  "jh": {
+    "thePathOfTheAardvark": [
+      "jheel",
+      "jheels"
     ]
   },
   "ji": {
@@ -915,6 +1408,17 @@
       "jobs",
       "jobshare",
       "jobshares"
+    ]
+  },
+  "jp": {
+    "thePathOfTheAardvark": [
+      "jpeg",
+      "jpegs"
+    ]
+  },
+  "js": {
+    "thePathOfTheAardvark": [
+      "jsyk"
     ]
   },
   "ju": {
@@ -935,12 +1439,38 @@
       "kanakas"
     ]
   },
+  "kb": {
+    "thePathOfTheAardvark": [
+      "kbyte",
+      "kbytes"
+    ]
+  },
+  "kc": {
+    "thePathOfTheAardvark": [
+      "kcvo",
+      "kcvos"
+    ]
+  },
   "ke": {
     "thePathOfTheAardvark": [
       "key",
       "keyboard",
       "keyboardist",
       "keyboardists"
+    ]
+  },
+  "kg": {
+    "thePathOfTheAardvark": [
+      "kgotla",
+      "kgotlas"
+    ]
+  },
+  "kh": {
+    "thePathOfTheAardvark": [
+      "khan",
+      "khans",
+      "khansama",
+      "khansamas"
     ]
   },
   "ki": {
@@ -952,6 +1482,25 @@
       "kingsnakes"
     ]
   },
+  "kl": {
+    "thePathOfTheAardvark": [
+      "klutz",
+      "klutziest"
+    ]
+  },
+  "km": {
+    "thePathOfTheAardvark": [
+      "kmph"
+    ]
+  },
+  "kn": {
+    "thePathOfTheAardvark": [
+      "knee",
+      "kneel",
+      "kneeler",
+      "kneelers"
+    ]
+  },
   "ko": {
     "thePathOfTheAardvark": [
       "kop",
@@ -960,11 +1509,49 @@
       "kopiykas"
     ]
   },
+  "kp": {
+    "thePathOfTheAardvark": [
+      "kpi",
+      "kpis"
+    ]
+  },
+  "kr": {
+    "thePathOfTheAardvark": [
+      "kru",
+      "kruger",
+      "krugerrand",
+      "krugerrands"
+    ]
+  },
+  "ks": {
+    "thePathOfTheAardvark": [
+      "kshatriya",
+      "kshatriyas"
+    ]
+  },
+  "kt": {
+    "thePathOfTheAardvark": [
+      "kthx"
+    ]
+  },
   "ku": {
     "thePathOfTheAardvark": [
       "kurd",
       "kurdaitcha",
       "kurdaitchas"
+    ]
+  },
+  "kv": {
+    "thePathOfTheAardvark": [
+      "kvetch",
+      "kvetching"
+    ]
+  },
+  "kw": {
+    "thePathOfTheAardvark": [
+      "kwa",
+      "kwanza",
+      "kwanzas"
     ]
   },
   "ky": {
@@ -982,6 +1569,24 @@
       "landscapes"
     ]
   },
+  "lb": {
+    "thePathOfTheAardvark": [
+      "lbd",
+      "lbds"
+    ]
+  },
+  "lc": {
+    "thePathOfTheAardvark": [
+      "lcm",
+      "lcms"
+    ]
+  },
+  "ld": {
+    "thePathOfTheAardvark": [
+      "ldr",
+      "ldrs"
+    ]
+  },
   "le": {
     "thePathOfTheAardvark": [
       "lea",
@@ -990,6 +1595,14 @@
       "leathern",
       "leatherneck",
       "leathernecks"
+    ]
+  },
+  "lg": {
+    "thePathOfTheAardvark": [
+      "lgbt",
+      "lgbtq",
+      "lgbtqi",
+      "lgbtqia"
     ]
   },
   "li": {
@@ -1001,6 +1614,18 @@
       "lithographing"
     ]
   },
+  "ll": {
+    "thePathOfTheAardvark": [
+      "llano",
+      "llanos"
+    ]
+  },
+  "ln": {
+    "thePathOfTheAardvark": [
+      "lnb",
+      "lnbs"
+    ]
+  },
   "lo": {
     "thePathOfTheAardvark": [
       "loo",
@@ -1009,6 +1634,24 @@
       "loosen",
       "loosener",
       "looseners"
+    ]
+  },
+  "lp": {
+    "thePathOfTheAardvark": [
+      "lpn",
+      "lpns"
+    ]
+  },
+  "lr": {
+    "thePathOfTheAardvark": [
+      "lrv",
+      "lrvs"
+    ]
+  },
+  "ls": {
+    "thePathOfTheAardvark": [
+      "lsd",
+      "lsds"
     ]
   },
   "lu": {
@@ -1037,6 +1680,19 @@
       "managerialism"
     ]
   },
+  "mb": {
+    "thePathOfTheAardvark": [
+      "mba",
+      "mbaqanga"
+    ]
+  },
+  "mc": {
+    "thePathOfTheAardvark": [
+      "mcg",
+      "mcgyver",
+      "mcgyvering"
+    ]
+  },
   "me": {
     "thePathOfTheAardvark": [
       "met",
@@ -1044,6 +1700,17 @@
       "metal",
       "metalize",
       "metalized"
+    ]
+  },
+  "mg": {
+    "thePathOfTheAardvark": [
+      "mgysgt"
+    ]
+  },
+  "mh": {
+    "thePathOfTheAardvark": [
+      "mho",
+      "mhos"
     ]
   },
   "mi": {
@@ -1055,6 +1722,25 @@
       "microswitches"
     ]
   },
+  "ml": {
+    "thePathOfTheAardvark": [
+      "mlle",
+      "mlles"
+    ]
+  },
+  "mm": {
+    "thePathOfTheAardvark": [
+      "mmo",
+      "mmorpg",
+      "mmorpgs"
+    ]
+  },
+  "mn": {
+    "thePathOfTheAardvark": [
+      "mnemonic",
+      "mnemonics"
+    ]
+  },
   "mo": {
     "thePathOfTheAardvark": [
       "mon",
@@ -1064,12 +1750,54 @@
       "monologised"
     ]
   },
+  "mp": {
+    "thePathOfTheAardvark": [
+      "mpd",
+      "mpdg",
+      "mpdgs"
+    ]
+  },
+  "mr": {
+    "thePathOfTheAardvark": [
+      "mri",
+      "mridangam",
+      "mridangams"
+    ]
+  },
+  "ms": {
+    "thePathOfTheAardvark": [
+      "msg",
+      "msgt",
+      "msgts"
+    ]
+  },
+  "mt": {
+    "thePathOfTheAardvark": [
+      "mtb",
+      "mtbf",
+      "mtbfs"
+    ]
+  },
   "mu": {
     "thePathOfTheAardvark": [
       "multi",
       "multiple",
       "multiplex",
       "multiplexing"
+    ]
+  },
+  "mv": {
+    "thePathOfTheAardvark": [
+      "mvp",
+      "mvps"
+    ]
+  },
+  "mw": {
+    "thePathOfTheAardvark": [
+      "mwa",
+      "mwah",
+      "mwahaha",
+      "mwahahaha"
     ]
   },
   "my": {
@@ -1081,6 +1809,12 @@
       "mythicised"
     ]
   },
+  "mz": {
+    "thePathOfTheAardvark": [
+      "mzungu",
+      "mzungus"
+    ]
+  },
   "na": {
     "thePathOfTheAardvark": [
       "nat",
@@ -1090,12 +1824,38 @@
       "nationalised"
     ]
   },
+  "nc": {
+    "thePathOfTheAardvark": [
+      "nco",
+      "ncos"
+    ]
+  },
+  "nd": {
+    "thePathOfTheAardvark": [
+      "nde",
+      "ndebele",
+      "ndebeles"
+    ]
+  },
   "ne": {
     "thePathOfTheAardvark": [
       "new",
       "news",
       "newspaper",
       "newspaperwomen"
+    ]
+  },
+  "nf": {
+    "thePathOfTheAardvark": [
+      "nfl",
+      "nfld"
+    ]
+  },
+  "ng": {
+    "thePathOfTheAardvark": [
+      "ngo",
+      "ngoni",
+      "ngonis"
     ]
   },
   "ni": {
@@ -1107,6 +1867,17 @@
       "nickelodeons"
     ]
   },
+  "nm": {
+    "thePathOfTheAardvark": [
+      "nmex"
+    ]
+  },
+  "nn": {
+    "thePathOfTheAardvark": [
+      "nnp",
+      "nnps"
+    ]
+  },
   "no": {
     "thePathOfTheAardvark": [
       "non",
@@ -1116,12 +1887,41 @@
       "nonessentials"
     ]
   },
+  "np": {
+    "thePathOfTheAardvark": [
+      "npv",
+      "npvs"
+    ]
+  },
+  "nr": {
+    "thePathOfTheAardvark": [
+      "nrsv"
+    ]
+  },
+  "ns": {
+    "thePathOfTheAardvark": [
+      "nsa",
+      "nsaid",
+      "nsaids"
+    ]
+  },
+  "nt": {
+    "thePathOfTheAardvark": [
+      "ntsc"
+    ]
+  },
   "nu": {
     "thePathOfTheAardvark": [
       "nut",
       "nuts",
       "nutso",
       "nutsos"
+    ]
+  },
+  "nv": {
+    "thePathOfTheAardvark": [
+      "nvq",
+      "nvqs"
     ]
   },
   "ny": {
@@ -1339,6 +2139,24 @@
       "parascended"
     ]
   },
+  "pb": {
+    "thePathOfTheAardvark": [
+      "pbx",
+      "pbxs"
+    ]
+  },
+  "pc": {
+    "thePathOfTheAardvark": [
+      "pcs",
+      "pcso"
+    ]
+  },
+  "pd": {
+    "thePathOfTheAardvark": [
+      "pdf",
+      "pdfs"
+    ]
+  },
   "pe": {
     "thePathOfTheAardvark": [
       "per",
@@ -1347,6 +2165,23 @@
       "perish",
       "perisher",
       "perishers"
+    ]
+  },
+  "pf": {
+    "thePathOfTheAardvark": [
+      "pfft",
+      "pfftt"
+    ]
+  },
+  "ph": {
+    "thePathOfTheAardvark": [
+      "pho",
+      "phot",
+      "photo",
+      "photos",
+      "photosynthesis",
+      "photosynthesise",
+      "photosynthesised"
     ]
   },
   "pi": {
@@ -1358,6 +2193,27 @@
       "pinesaps"
     ]
   },
+  "pl": {
+    "thePathOfTheAardvark": [
+      "plan",
+      "plant",
+      "plants",
+      "plantswomen"
+    ]
+  },
+  "pm": {
+    "thePathOfTheAardvark": [
+      "pms",
+      "pmsl"
+    ]
+  },
+  "pn": {
+    "thePathOfTheAardvark": [
+      "pneuma",
+      "pneumatophore",
+      "pneumatophores"
+    ]
+  },
   "po": {
     "thePathOfTheAardvark": [
       "pol",
@@ -1365,6 +2221,37 @@
       "polyp",
       "polypod",
       "polypodies"
+    ]
+  },
+  "pp": {
+    "thePathOfTheAardvark": [
+      "ppl",
+      "pple"
+    ]
+  },
+  "pr": {
+    "thePathOfTheAardvark": [
+      "pro",
+      "prop",
+      "propel",
+      "propeller",
+      "propellerhead",
+      "propellerheads"
+    ]
+  },
+  "ps": {
+    "thePathOfTheAardvark": [
+      "psych",
+      "psycho",
+      "psychos",
+      "psychoses"
+    ]
+  },
+  "pt": {
+    "thePathOfTheAardvark": [
+      "pte",
+      "pterosaur",
+      "pterosaurs"
     ]
   },
   "pu": {
@@ -1376,12 +2263,29 @@
       "purists"
     ]
   },
+  "pv": {
+    "thePathOfTheAardvark": [
+      "pvr",
+      "pvrs"
+    ]
+  },
+  "pw": {
+    "thePathOfTheAardvark": [
+      "pwn",
+      "pwning"
+    ]
+  },
   "py": {
     "thePathOfTheAardvark": [
       "pyro",
       "pyrotechnic",
       "pyrotechnician",
       "pyrotechnicians"
+    ]
+  },
+  "pz": {
+    "thePathOfTheAardvark": [
+      "pzazz"
     ]
   },
   "qa": {
@@ -1406,12 +2310,35 @@
       "quadrated"
     ]
   },
+  "qw": {
+    "thePathOfTheAardvark": [
+      "qwerty"
+    ]
+  },
   "ra": {
     "thePathOfTheAardvark": [
       "rad",
       "radio",
       "radiograph",
       "radiographing"
+    ]
+  },
+  "rb": {
+    "thePathOfTheAardvark": [
+      "rbf",
+      "rbfs"
+    ]
+  },
+  "rc": {
+    "thePathOfTheAardvark": [
+      "rcm",
+      "rcmp"
+    ]
+  },
+  "rd": {
+    "thePathOfTheAardvark": [
+      "rdf",
+      "rdfs"
     ]
   },
   "re": {
@@ -1424,6 +2351,26 @@
       "reconstructions"
     ]
   },
+  "rf": {
+    "thePathOfTheAardvark": [
+      "rfp",
+      "rfps"
+    ]
+  },
+  "rg": {
+    "thePathOfTheAardvark": [
+      "rgn",
+      "rgns"
+    ]
+  },
+  "rh": {
+    "thePathOfTheAardvark": [
+      "rho",
+      "rhomb",
+      "rhomboid",
+      "rhomboidei"
+    ]
+  },
   "ri": {
     "thePathOfTheAardvark": [
       "rig",
@@ -1431,6 +2378,12 @@
       "righthand",
       "righthander",
       "righthanders"
+    ]
+  },
+  "rn": {
+    "thePathOfTheAardvark": [
+      "rnz",
+      "rnzn"
     ]
   },
   "ro": {
@@ -1442,12 +2395,43 @@
       "rootstocks"
     ]
   },
+  "rp": {
+    "thePathOfTheAardvark": [
+      "rpv",
+      "rpvs"
+    ]
+  },
+  "rr": {
+    "thePathOfTheAardvark": [
+      "rrhoea"
+    ]
+  },
+  "rs": {
+    "thePathOfTheAardvark": [
+      "rsv",
+      "rsvp",
+      "rsvping"
+    ]
+  },
+  "rt": {
+    "thePathOfTheAardvark": [
+      "rtf",
+      "rtfm"
+    ]
+  },
   "ru": {
     "thePathOfTheAardvark": [
       "rub",
       "rubber",
       "rubberneck",
       "rubbernecking"
+    ]
+  },
+  "rw": {
+    "thePathOfTheAardvark": [
+      "rwa",
+      "rwandan",
+      "rwandans"
     ]
   },
   "ry": {
@@ -1466,6 +2450,26 @@
       "saltiest"
     ]
   },
+  "sb": {
+    "thePathOfTheAardvark": [
+      "sbu",
+      "sbus"
+    ]
+  },
+  "sc": {
+    "thePathOfTheAardvark": [
+      "scar",
+      "scare",
+      "scaremonger",
+      "scaremongers"
+    ]
+  },
+  "sd": {
+    "thePathOfTheAardvark": [
+      "sdk",
+      "sdks"
+    ]
+  },
   "se": {
     "thePathOfTheAardvark": [
       "sen",
@@ -1474,6 +2478,27 @@
       "sensational",
       "sensationalise",
       "sensationalised"
+    ]
+  },
+  "sf": {
+    "thePathOfTheAardvark": [
+      "sfo",
+      "sforzato",
+      "sforzatos"
+    ]
+  },
+  "sg": {
+    "thePathOfTheAardvark": [
+      "sgraffiti"
+    ]
+  },
+  "sh": {
+    "thePathOfTheAardvark": [
+      "sho",
+      "show",
+      "shower",
+      "showerproof",
+      "showerproofed"
     ]
   },
   "si": {
@@ -1486,6 +2511,44 @@
       "singletrees"
     ]
   },
+  "sj": {
+    "thePathOfTheAardvark": [
+      "sjambok",
+      "sjambokking"
+    ]
+  },
+  "sk": {
+    "thePathOfTheAardvark": [
+      "ski",
+      "skin",
+      "skinny",
+      "skinnymalink",
+      "skinnymalinks"
+    ]
+  },
+  "sl": {
+    "thePathOfTheAardvark": [
+      "slip",
+      "slips",
+      "slipstream",
+      "slipstreaming"
+    ]
+  },
+  "sm": {
+    "thePathOfTheAardvark": [
+      "sme",
+      "smell",
+      "smelliest"
+    ]
+  },
+  "sn": {
+    "thePathOfTheAardvark": [
+      "snow",
+      "snows",
+      "snowshoe",
+      "snowshoed"
+    ]
+  },
   "so": {
     "thePathOfTheAardvark": [
       "sol",
@@ -1496,6 +2559,47 @@
       "solidifying"
     ]
   },
+  "sp": {
+    "thePathOfTheAardvark": [
+      "spa",
+      "spar",
+      "spark",
+      "sparkle",
+      "sparkler",
+      "sparklers"
+    ]
+  },
+  "sq": {
+    "thePathOfTheAardvark": [
+      "squee",
+      "squeeze",
+      "squeezebox",
+      "squeezeboxes"
+    ]
+  },
+  "sr": {
+    "thePathOfTheAardvark": [
+      "sra",
+      "sram",
+      "srams"
+    ]
+  },
+  "ss": {
+    "thePathOfTheAardvark": [
+      "ssr",
+      "ssri",
+      "ssris"
+    ]
+  },
+  "st": {
+    "thePathOfTheAardvark": [
+      "str",
+      "strat",
+      "strata",
+      "stratagem",
+      "stratagems"
+    ]
+  },
   "su": {
     "thePathOfTheAardvark": [
       "sub",
@@ -1503,6 +2607,20 @@
       "substantial",
       "substantialise",
       "substantialised"
+    ]
+  },
+  "sv": {
+    "thePathOfTheAardvark": [
+      "svelte",
+      "sveltest"
+    ]
+  },
+  "sw": {
+    "thePathOfTheAardvark": [
+      "sweet",
+      "sweeten",
+      "sweetener",
+      "sweeteners"
     ]
   },
   "sy": {
@@ -1523,6 +2641,20 @@
       "tartars"
     ]
   },
+  "tb": {
+    "thePathOfTheAardvark": [
+      "tbs",
+      "tbsp",
+      "tbsps"
+    ]
+  },
+  "tc": {
+    "thePathOfTheAardvark": [
+      "tch",
+      "tchotchke",
+      "tchotchkes"
+    ]
+  },
   "te": {
     "thePathOfTheAardvark": [
       "tel",
@@ -1530,6 +2662,21 @@
       "teles",
       "telescope",
       "telescoped"
+    ]
+  },
+  "tg": {
+    "thePathOfTheAardvark": [
+      "tgv",
+      "tgvs"
+    ]
+  },
+  "th": {
+    "thePathOfTheAardvark": [
+      "the",
+      "therm",
+      "thermal",
+      "thermalise",
+      "thermalised"
     ]
   },
   "ti": {
@@ -1541,6 +2688,30 @@
       "tinkerbirds"
     ]
   },
+  "tj": {
+    "thePathOfTheAardvark": [
+      "tjilpi",
+      "tjilpis"
+    ]
+  },
+  "tk": {
+    "thePathOfTheAardvark": [
+      "tko",
+      "tkos"
+    ]
+  },
+  "tl": {
+    "thePathOfTheAardvark": [
+      "tlingit",
+      "tlingits"
+    ]
+  },
+  "tm": {
+    "thePathOfTheAardvark": [
+      "tmt",
+      "tmts"
+    ]
+  },
   "to": {
     "thePathOfTheAardvark": [
       "tor",
@@ -1548,6 +2719,27 @@
       "torte",
       "tortellini",
       "tortellinis"
+    ]
+  },
+  "tr": {
+    "thePathOfTheAardvark": [
+      "tri",
+      "trip",
+      "triple",
+      "triplex",
+      "triplexing"
+    ]
+  },
+  "ts": {
+    "thePathOfTheAardvark": [
+      "tsar",
+      "tsarina",
+      "tsarinas"
+    ]
+  },
+  "tt": {
+    "thePathOfTheAardvark": [
+      "ttyl"
     ]
   },
   "tu": {
@@ -1559,6 +2751,14 @@
       "turnstones"
     ]
   },
+  "tw": {
+    "thePathOfTheAardvark": [
+      "twee",
+      "tweet",
+      "tweets",
+      "tweetstorm"
+    ]
+  },
   "ty": {
     "thePathOfTheAardvark": [
       "type",
@@ -1566,6 +2766,13 @@
       "typeset",
       "typesetter",
       "typesetters"
+    ]
+  },
+  "tz": {
+    "thePathOfTheAardvark": [
+      "tzar",
+      "tzarina",
+      "tzarinas"
     ]
   },
   "ua": {
@@ -1721,6 +2928,24 @@
       "variationists"
     ]
   },
+  "vb": {
+    "thePathOfTheAardvark": [
+      "vbac",
+      "vbacs"
+    ]
+  },
+  "vc": {
+    "thePathOfTheAardvark": [
+      "vcr",
+      "vcrs"
+    ]
+  },
+  "vd": {
+    "thePathOfTheAardvark": [
+      "vdu",
+      "vdus"
+    ]
+  },
   "ve": {
     "thePathOfTheAardvark": [
       "ven",
@@ -1738,6 +2963,19 @@
       "visualised"
     ]
   },
+  "vl": {
+    "thePathOfTheAardvark": [
+      "vlog",
+      "vlogger",
+      "vloggers"
+    ]
+  },
+  "vm": {
+    "thePathOfTheAardvark": [
+      "vmo",
+      "vmos"
+    ]
+  },
   "vo": {
     "thePathOfTheAardvark": [
       "vow",
@@ -1746,11 +2984,42 @@
       "vowelised"
     ]
   },
+  "vp": {
+    "thePathOfTheAardvark": [
+      "vpn",
+      "vpns"
+    ]
+  },
+  "vr": {
+    "thePathOfTheAardvark": [
+      "vrou",
+      "vrouw",
+      "vrouws"
+    ]
+  },
+  "vs": {
+    "thePathOfTheAardvark": [
+      "vso",
+      "vsop"
+    ]
+  },
+  "vt": {
+    "thePathOfTheAardvark": [
+      "vtr",
+      "vtrs"
+    ]
+  },
   "vu": {
     "thePathOfTheAardvark": [
       "vulgar",
       "vulgarise",
       "vulgarised"
+    ]
+  },
+  "vv": {
+    "thePathOfTheAardvark": [
+      "vvip",
+      "vvips"
     ]
   },
   "vy": {
@@ -1768,6 +3037,11 @@
       "waterskiing"
     ]
   },
+  "wd": {
+    "thePathOfTheAardvark": [
+      "wdyt"
+    ]
+  },
   "we": {
     "thePathOfTheAardvark": [
       "wee",
@@ -1775,6 +3049,26 @@
       "weekend",
       "weekender",
       "weekenders"
+    ]
+  },
+  "wf": {
+    "thePathOfTheAardvark": [
+      "wftu"
+    ]
+  },
+  "wg": {
+    "thePathOfTheAardvark": [
+      "wgtn"
+    ]
+  },
+  "wh": {
+    "thePathOfTheAardvark": [
+      "who",
+      "whole",
+      "wholes",
+      "wholesale",
+      "wholesaler",
+      "wholesalers"
     ]
   },
   "wi": {
@@ -1787,6 +3081,17 @@
       "windsurfers"
     ]
   },
+  "wl": {
+    "thePathOfTheAardvark": [
+      "wltm"
+    ]
+  },
+  "wm": {
+    "thePathOfTheAardvark": [
+      "wmd",
+      "wmds"
+    ]
+  },
   "wo": {
     "thePathOfTheAardvark": [
       "woo",
@@ -1796,10 +3101,30 @@
       "woodshedding"
     ]
   },
+  "wp": {
+    "thePathOfTheAardvark": [
+      "wpc",
+      "wpcs"
+    ]
+  },
+  "wr": {
+    "thePathOfTheAardvark": [
+      "writ",
+      "write",
+      "writer",
+      "writers"
+    ]
+  },
   "wu": {
     "thePathOfTheAardvark": [
       "wuss",
       "wussing"
+    ]
+  },
+  "ww": {
+    "thePathOfTheAardvark": [
+      "wwi",
+      "wwii"
     ]
   },
   "wy": {
@@ -1816,6 +3141,17 @@
       "xanthines"
     ]
   },
+  "xb": {
+    "thePathOfTheAardvark": [
+      "xbrl"
+    ]
+  },
+  "xc": {
+    "thePathOfTheAardvark": [
+      "xchromosome",
+      "xchromosomes"
+    ]
+  },
   "xe": {
     "thePathOfTheAardvark": [
       "xeno",
@@ -1823,10 +3159,27 @@
       "xenotransplants"
     ]
   },
+  "xf": {
+    "thePathOfTheAardvark": [
+      "xfactor",
+      "xfactors"
+    ]
+  },
+  "xh": {
+    "thePathOfTheAardvark": [
+      "xhosa",
+      "xhosas"
+    ]
+  },
   "xi": {
     "thePathOfTheAardvark": [
       "xiphisternum",
       "xiphisternums"
+    ]
+  },
+  "xl": {
+    "thePathOfTheAardvark": [
+      "xlnt"
     ]
   },
   "xo": {
@@ -1934,12 +3287,24 @@
       "zennists"
     ]
   },
+  "zh": {
+    "thePathOfTheAardvark": [
+      "zho",
+      "zhos"
+    ]
+  },
   "zi": {
     "thePathOfTheAardvark": [
       "zip",
       "zipper",
       "zipperhead",
       "zipperheads"
+    ]
+  },
+  "zl": {
+    "thePathOfTheAardvark": [
+      "zloty",
+      "zlotys"
     ]
   },
   "zo": {
@@ -1956,10 +3321,23 @@
       "zuñis"
     ]
   },
+  "zw": {
+    "thePathOfTheAardvark": [
+      "zwitterion",
+      "zwitterions"
+    ]
+  },
   "zy": {
     "thePathOfTheAardvark": [
       "zygote",
       "zygotes"
+    ]
+  },
+  "zz": {
+    "thePathOfTheAardvark": [
+      "zzz",
+      "zzzz",
+      "zzzzz"
     ]
   }
 }
