@@ -85,7 +85,9 @@ const findBestStartingWordAndWordFamilyPerTwoLetterWordStarters = ({ wsSubstr, w
 
     findBestStartingWordAndWordFamilyPerTwoLetterWordStarters(wvWordMap[wsSubstr]);
   } else {
-    if (strLength < 4 || !isVowelWorthy(wsSubstr)) {
+    const { thePathOfTheAardvark } = wvWordMap[wsSubstr]
+
+    if (thePathOfTheAardvark?.length < 2 || (!isVowelWorthy(thePathOfTheAardvark[0]) && !isVowelWorthy(thePathOfTheAardvark[1]))) {
       delete wvWordMap[wsSubstr]
     } else {
       delete wvWordMap[wsSubstr].wsSubstr
