@@ -1,38 +1,42 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Kalam&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  min-height: 100%;
+  background-color: #3cab93;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-family: 'Gloria Hallelujah', cursive;
+  background-color: #3b3bbc;
+  min-height: 16vh;
+  font-size: 4rem;
+  letter-spacing: 2px;
   color: white;
+  border-bottom: 2px solid whitesmoke;
 }
 
-.App-link {
-  color: #61dafb;
+.fancy {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 2.50rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.aar-img {
+  background-color: #3b3bbc;
+}
+
+.aar-img:hover {
+  transition: all 0.5s ease;
+  color: #3cab93;
+  box-shadow: 0 0 .15rem black;
+}
+
+.aar-gif {
+  background: url(./assets/img/aarGif.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 42%;
+  border-radius: 1rem;
+  height: 100%;
 }

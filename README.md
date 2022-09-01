@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# [LLordvark](https://www.llordvark.com/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## What is it?
 
-## Available Scripts
+The undisputed, indispensable companion-guide to [Wordvark](https://miwaro.github.io/wordvark/). Namely, a decision tree of sorts that maps out all of the best possible word-streak-combo-ramas that may be achieved for each two-letter word-starter given.
+## Why is it?
 
-In the project directory, you can run:
+To get high scores! Impress all your aardvark-ian friends!! Become Llordvark!!!
 
-### `npm start`
+## How does it do?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+It does pretty well, though, not infallible. Roughly conjecturing that 90% of the words will check out as certified-fresh words as dicated by the [api](https://dictionaryapi.dev/) utilized in Wordvark. Although the dictionary used here to generate the word-map JSON was in fact obtained from this api's open-source repo, after retrospectively glancing at the dictionary-api's source-code, it's speculated that updates were made in the second iteration of the api that enable the it to dynamically scrape and source definitions from the interwebs, thus rendering the Llordvark-Library prone to occasional error. Nonetheless, parsing/formatting logic is implemented when generating the JSON to still ensure ultimate Llordvark-ery. 
+## How to do the generate json-map?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+From the root directory, run this command:
 
-### `npm test`
+```
+node src/lib/wvMapper.mjs
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+After a good ~6 second thumb-tweedling, a stringified object will appear in your terminal. For convienent viewing, copy/paste into a json-parser such as this [one](https://jsonformatter.org/json-parser) and 'vark on!
