@@ -9,7 +9,7 @@ To get high scores! Impress all your aardvark-ian friends!! Become Llordvark!!!
 
 ## How does it do?
 
-It does pretty well, though, not infallible. Roughly conjecturing that 90% of the words will check out as certified-fresh words as dicated by the [api](https://dictionaryapi.dev/) utilized in Wordvark. Although the dictionary used here to generate the word-map JSON was in fact obtained from this api's open-source repo, after retrospectively glancing at the dictionary-api's source-code, it's speculated that updates were made in the second iteration of the api that enable the it to dynamically scrape and source definitions from the interwebs, thus rendering the Llordvark-Library prone to occasional error. Nonetheless, parsing/formatting logic is implemented when generating the JSON to still ensure ultimate Llordvark-ery. 
+It does pretty well, though, not infallible. Roughly conjecturing that 90% of the words will check out as certified-fresh words as dicated by the [api](https://dictionaryapi.dev/) utilized in Wordvark. Although the dictionary used here to generate the word-map JSON was in fact obtained from this api's open-source repo, after retrospectively glancing at the dictionary-api's source-code, it's speculated that updates were made in the second iteration of the api that enable it to dynamically scrape and source definitions from the interwebs, thus rendering the Llordvark-Library prone to occasional error. Nonetheless, parsing/formatting logic is implemented when generating the JSON to still ensure ultimate Llordvark-ery. 
 ## How to do the generate json-map?
 
 From the root directory, run this command:
