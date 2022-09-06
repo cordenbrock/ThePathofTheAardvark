@@ -992,8 +992,7 @@
       "home",
       "homes",
       "homeschool",
-      "homeschooling",
-      "homeschoolings"
+      "homeschooled"
     ]
   },
   "hr": {
@@ -2020,12 +2019,6 @@
       "saltiest"
     ]
   },
-  "sb": {
-    "thePathOfTheAardvark": [
-      "sbu",
-      "sbus"
-    ]
-  },
   "sc": {
     "thePathOfTheAardvark": [
       "scar",
@@ -2046,7 +2039,6 @@
   },
   "sf": {
     "thePathOfTheAardvark": [
-      "sfo",
       "sforzato",
       "sforzatos"
     ]
@@ -2057,7 +2049,7 @@
       "show",
       "shower",
       "showerproof",
-      "showerproofed"
+      "showerproofs"
     ]
   },
   "si": {
@@ -2134,20 +2126,6 @@
       "squeeze",
       "squeezebox",
       "squeezeboxes"
-    ]
-  },
-  "sr": {
-    "thePathOfTheAardvark": [
-      "sra",
-      "sram",
-      "srams"
-    ]
-  },
-  "ss": {
-    "thePathOfTheAardvark": [
-      "ssr",
-      "ssri",
-      "ssris"
     ]
   },
   "st": {
